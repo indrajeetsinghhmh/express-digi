@@ -1,0 +1,24 @@
+{
+  "name": "winny-corporation",
+  "version": "1.0.0",
+  "description": "a futuristic company at its initial phase",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "tea",
+    "winny"
+  ],
+  "author": "Inderjeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
